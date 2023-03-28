@@ -12,7 +12,7 @@ body {
     grid-template-rows: 100px 200px 300px;
     grid-gap: 10px;
     justify-items: stretch;
-    align-items: stretch;
+    /* align-items: stretch; */
 }
 
 .grid-container>div {
